@@ -7,4 +7,3 @@ Hi👋 Nice to meet you!
 📫 You can reach me through x@pranjalmishra.dev
 😄 Pronouns: he
 ⚡ Fun fact: Feel free to share something interesting
-<a href="https://app.daily.dev/erpranjalmishra"><img src="https://api.daily.dev/devcards/v2/WQleFXyFjm3sbXgrLrGw0.png?type=default&r=efs" width="356" alt="Pranjal Mishra's Dev Card"/></a>
