@@ -1,9 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="erpranjalmishra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/erpranjalmishra?trk=profile-badge">Pranjal M.</a></div>
-              
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erpranjalmishra&label=Profile%20views&color=0e75b6&style=flat" alt="erpranjalmishra" /> </p>
-
+            
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erpranjalmishra" alt="erpranjalmishra" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
