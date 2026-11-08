@@ -1,17 +1,80 @@
-![](https://komarev.com/ghpvc/?username=erpranjalmishra)
-<h3 align="center">Innovation Up</h3>            
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erpranjalmishra" alt="erpranjalmishra" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>            
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erpranjalmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erpranjalmishra" height="30" width="40" /></a>
-<a href="https://fb.com/ai.pranjalmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ai.pranjalmishra" height="30" width="40" /></a>
-<a href="https://instagram.com/er.pranjalmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er.pranjalmishra" height="30" width="40" /></a>
+
+<!-- Profile Views -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=erpranjalmishra&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views"/>
+</div>
+
+<h1 align="center">Hey, I'm Pranjal Mishra 👋</h1>
+
+<h3 align="center">
+  Deep-Tech Founder | AI/ML Enthusiast | Building What's Next 🚀
+</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/erpranjalmishra">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/er.pranjalmishra">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://fb.com/ai.pranjalmishra">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erpranjalmishra&show_icons=true&locale=en&layout=compact" alt="erpranjalmishra" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erpranjalmishra&show_icons=true&locale=en" alt="erpranjalmishra" /></p>
+- 🚀 Building **NovaTrail** — exploring AI, autonomous systems, and deep-tech innovation.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, Robotics & Geospatial Intelligence.
+- 🛰️ Exploring the intersection of aerospace, drones, and intelligent sensing systems.
+- 💡 Passionate about turning complex ideas into real-world technology.
+- 🌍 Always curious about what's possible when engineering meets imagination.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erpranjalmishra&" alt="erpranjalmishra" /></p>
+> *Innovation isn't about following the future. It's about building it.*
+
+---
+
+### ⚡ Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nodejs,tensorflow,pytorch,opencv,linux,git,github,docker,arduino,raspberrypi&perline=9" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=erpranjalmishra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erpranjalmishra&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=erpranjalmishra&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=erpranjalmishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erpranjalmishra/erpranjalmishra/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+<p align="center">
+  <b>Think. Build. Innovate. Repeat.</b>
+  <br/>
+  <i>Innovation Up 🚀</i>
+</p>
